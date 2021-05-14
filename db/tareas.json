@@ -1,0 +1,38 @@
+[
+  {
+    "titulo": "Planchar",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Jugar",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Lavar los platos",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Hacer la cama",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "Ordenar la casa",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Hacer la comida",
+    "estado": "pendiente"
+  },
+  {
+    "titulo": "Molestar a Robert",
+    "estado": "en proceso"
+  },
+  {
+    "titulo": "Hacer los ejercicios de Playground",
+    "estado": "terminada"
+  },
+  {
+    "titulo": "pintar",
+    "estado": "pendiente"
+  }
+]
